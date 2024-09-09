@@ -1,3 +1,7 @@
+## 0.5.0
+
+* Upgrade to Java 17 & Gradle 8.4
+
 ## 0.4.0
 
 * Fix duplicated listeners by removing .asBroadcastStream
